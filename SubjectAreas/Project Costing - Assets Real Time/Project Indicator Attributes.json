@@ -1,8 +1,7 @@
 {
   "presentationTable" : {
-    "version" : 1.0,
     "name" : "Project Indicator Attributes",
-    "description" : "The processing rules for project capitalization.",
+    "description" : "The processing rules for project capitalization branch11",
     "tags" : [ "Presentation Level", "Year" ],
     "alternateNames" : [ "Year Presentation Level" ],
     "hideIfTrue" : {
