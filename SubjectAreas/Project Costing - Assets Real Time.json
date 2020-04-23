@@ -1,8 +1,7 @@
 {
   "subjectArea" : {
-    "version" : 1.0,
     "name" : "Project Costing - Assets Real Time",
-    "description" : "Analyze capital projects, and identify possible exceptions by comparing expensed and capitalizable costs.",
+    "description" : "Analyze capital projects, and identify possible exceptions by comparing expensed and capitalizable costs.\ntest",
     "tags" : [ "Project", "Assets", "private" ],
     "sourceBusinessModel" : "businessModel:Real-Time Work Center",
     "implicitFactColumn" : "logicalColumn:Real-Time Work Center.F1 Revenue.Units",
